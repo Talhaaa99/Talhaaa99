@@ -26,6 +26,13 @@ I'm Talha Toufeeq a Frontend Developer that likes to learn by building.
 ### Coding Stats
 
 <!--START_SECTION:waka-->
+
+```text
+YAML       15 mins         █████████████████▒░░░░░░░   69.83 %
+Markdown   6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
