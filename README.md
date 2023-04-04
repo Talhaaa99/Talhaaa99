@@ -16,7 +16,7 @@ I'm Talha Toufeeq a Frontend Developer that likes to learn by building.
 
 #### Contact:
 
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Talha_Resume2023.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Talhaaa99/Talhaaa99/blob/master/resumes/Talha_Resume2023.pdf)
 - :email: talha.toufeeq99@gmail.com
 
 #### Profile Visits
