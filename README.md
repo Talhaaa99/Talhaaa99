@@ -16,39 +16,18 @@ I'm Talha Toufeeq a Frontend Developer that likes to learn by building.
 
 #### Contact:
 
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Talha_Resume2023.pdf)
 - :email: talha.toufeeq99@gmail.com
 
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Talhaaa99.Talhaaa99&left_color=black&right_color=orange)
 
-<details>
-<summary>
-  My github stats
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
-#### Coding Stats
+### Coding Stats
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 #### Github Stats
 
 ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talhaaa99&show_icons=true&theme=dark&hide=contribs,prs)
-
-</details>
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
