@@ -2,7 +2,7 @@
 
 I'm Talha Toufeeq a Frontend Developer that likes to learn by building.
 
-:mailbox: Reach me out!
+:mailbox: Reach out to me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@_talhahaha_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/_talhahaha_) [![Linkedin Badge](https://img.shields.io/badge/-Talha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-toufeeq-8207551b4/) [![Mail Badge](https://img.shields.io/badge/-talha.toufeeq99-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:talha.toufeeq99@gmail.com)
 
