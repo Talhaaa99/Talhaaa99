@@ -28,9 +28,8 @@ I'm Talha Toufeeq a Frontend Developer that likes to learn by building.
 <!--START_SECTION:waka-->
 
 ```text
-YAML       15 mins         █████████████████▒░░░░░░░   69.83 %
-Markdown   6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.80 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+YAML         18 mins         ████████████▓░░░░░░░░░░░░   50.99 %
+Other        8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.13 %
 ```
 
 <!--END_SECTION:waka-->
