@@ -28,7 +28,8 @@ I'm Talha Toufeeq a Frontend Developer that likes to learn by building.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   44 mins         █████████████████████████   99.86 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
