@@ -28,9 +28,9 @@ I'm Talha Toufeeq a Frontend Developer that likes to learn by building.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 32 mins    ███████████████████▒░░░░░   77.19 %
-TypeScript   25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+JavaScript   47 mins         ████████████████░░░░░░░░░   63.71 %
+TypeScript   25 mins         ████████▓░░░░░░░░░░░░░░░░   34.61 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
