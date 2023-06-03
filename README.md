@@ -27,7 +27,7 @@ I'm Talha Toufeeq a Frontend Developer that likes to learn by building.
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
